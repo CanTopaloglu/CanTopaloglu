@@ -1,5 +1,10 @@
-# 💫 About Me:
-🔭 I’m currently looking to find work<br>I'm a Full-Stack Developer<br>
+<h1 align="center">Merhaba! 👋</h1>
+
+<p align="center">
+  Ben <a href="https://github.com/CanTopaloglu">@CanTopaloglu</a>. Bu GitHub repo'su, C# .NET ve Full Stack geliştirme konularında öğrendiklerimi ve projelerimi paylaşmak için oluşturduğum bir alandır. Bu alanda, .NET mimarisi, Clean Architecture ve N-katmanlı yapılar gibi konularda geliştirdiğim çeşitli uygulamaları ve çözümleri bulabilirsiniz. Öğrenme yolculuğumun bir vitrini olan bu repo, keşfetmeniz için sizleri bekliyor!
+</p>
+
+<br>
 
 
 ## 🌐 Socials:
