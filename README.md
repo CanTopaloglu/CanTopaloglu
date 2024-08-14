@@ -1,4 +1,3 @@
-![Emre Can Topaloğlu Banner 2 (1)](https://github.com/user-attachments/assets/9937967b-46fa-44d6-8475-841f512687bc)
 
 
 <h1 align="center">Merhaba! 👋</h1>
