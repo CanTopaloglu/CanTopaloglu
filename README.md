@@ -1,4 +1,4 @@
-
+![Can Topaloglu Banner](banner.png)
 
 <h1 align="center">Merhaba! 👋</h1>
 
