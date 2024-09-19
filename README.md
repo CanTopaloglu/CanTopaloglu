@@ -12,6 +12,10 @@
   Ben <a href="https://github.com/CanTopaloglu">@CanTopaloglu</a>. Bu GitHub repo'su, C# .NET ve Full Stack geliştirme konularında öğrendiklerimi ve projelerimi paylaşmak için oluşturduğum bir alandır. Bu alanda, .NET mimarisi, Clean Architecture ve N-katmanlı yapılar gibi konularda geliştirdiğim çeşitli uygulamaları ve çözümleri bulabilirsiniz. Öğrenme yolculuğumun bir vitrini olan bu repo, keşfetmeniz için sizleri bekliyor!
 </p>
 
+<p align="center">
+  I am <a href="https://github.com/CanTopaloglu">@CanTopaloglu</a>. This GitHub repository is a space where I share my learnings and projects related to C# .NET and Full Stack development. In this repository, you can find various applications and solutions I have developed on topics such as .NET architecture, Clean Architecture, and N-tier structures. As a showcase of my learning journey, this repo is here for you to explore!
+</p>
+
 <br>
 
 # 🌐 Socials:
